@@ -9,6 +9,11 @@
 </template>
 
 <style>
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
 #app {
   height: 667px;
   width: 375px;
