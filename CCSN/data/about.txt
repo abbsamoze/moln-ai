@@ -1,0 +1,13 @@
+AltoCumlus 200, 20
+Altostratus 170, 18
+Cirrocumulus 200, 68
+Cirrostratus 250, 37
+Cirrus 100, 38
+Cumulonimbus 200, 42
+Cumulos 150, 32
+Nimbostratos 210, 64
+Stratocumulus 280, 60
+Stratus 150, 51
+
+predict- 430
+train- 1910
